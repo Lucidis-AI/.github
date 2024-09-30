@@ -33,11 +33,11 @@ Lucidis AI is on a mission to tame data chaos and empower businesses to break th
 
 ## Getting Started 🏁
 
-(Instructions for setting up the project locally)
+[Click Here](https://docs.lucidis.ai/guides/getting-started/)
 
 ## Documentation 📚
 
-(Link to comprehensive documentation)
+[Click Here](https://docs.lucidis.ai)
 
 ## Pricing 💰
 
@@ -54,8 +54,4 @@ Lucidis.ai is a wholly owned subsidiary of WhitegloveAI, dedicated to revolution
 
 ## Contact 📞
 
-For more information, visit our website at [www.lucidis.ai](https://www.lucidis.ai) or contact us at info@lucidis.ai.
-
-## License ⚖️
-
-(Include appropriate license information)
+For more information, visit our website at [lucidis.ai](https://cloud.lucidis.ai/app/login) or contact us at info@lucidis.ai.
